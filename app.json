@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "delivery2",
+    "slug": "delivery2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "delivery2"
+}
